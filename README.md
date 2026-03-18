@@ -1,134 +1,101 @@
-# Hi, I'm Akhila 👩‍💻  
-### 🚀 Full-Stack Developer (MERN) | Building Scalable Business Applications
+# Akhila 👩‍💻
+> Full-Stack Developer | MERN | Scalable Business Applications 🚀
 
-> 🚀 Building production-ready MERN applications with real-world impact
+<div align="center">
 
-🔹 1.4+ years experience in developing real-world applications  
-🔹 Specialized in **e-commerce systems, admin dashboards & secure APIs**  
-🔹 Passionate about building **scalable, production-grade applications**
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhila-thada-2a8b30298)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhila-Thada)
 
----
-
-## ✨ About Me
-
-I’m a Full-Stack Developer focused on building **real-world business applications** using the MERN stack.
-
-💡 I have hands-on experience in:
-- Pharma field-force systems  
-- Payment-integrated platforms  
-- Cloud-deployed applications on AWS  
-
-I focus on writing **clean, scalable, and secure code** with strong backend architecture and performance-driven UI.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me ✨
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+I’m a **Full-Stack Developer** focused on building **scalable, real-world business applications** using the **MERN stack**.  
+I specialize in **e-commerce platforms, admin dashboards, role-based systems, secure APIs, and performance-driven UI/UX**.
 
----
-
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-20232A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![OAuth2](https://img.shields.io/badge/OAuth2-20232A?style=for-the-badge&logo=auth0&logoColor=EB5424)
-![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+I have hands-on experience building **pharma field-force systems**, **payment-enabled applications**, and **cloud-deployed products on AWS**.
 
 ---
 
-### 💳 Payments & Integrations
-![Stripe](https://img.shields.io/badge/Stripe-20232A?style=for-the-badge&logo=stripe&logoColor=635BFF)
-![Razorpay](https://img.shields.io/badge/Razorpay-20232A?style=for-the-badge&logo=razorpay&logoColor=0C2451)
-![Google Calendar](https://img.shields.io/badge/Google_Calendar-20232A?style=for-the-badge&logo=googlecalendar&logoColor=4285F4)
+## Tech Stack 🛠️
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=api&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth2-3EAAAF?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### Payments & Integrations
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar_API-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonaws&logoColor=white)
+
+### Cloud & DevOps
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+## What I Build 💡
+
+- **E-commerce Applications** (Payments, Orders, Users)
+- **Admin Dashboards** (Role-based access, analytics, reports)
+- **OAuth2 Authentication** (Google login, JWT security)
+- **Payment Integrations** (Stripe / Razorpay)
+- **Google Calendar API Integrations**
+- **Cloud-hosted MERN Applications (AWS)**
+
 
 ---
 
-### ☁️ Cloud & DevOps
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![AWS S3](https://img.shields.io/badge/AWS_S3-20232A?style=for-the-badge&logo=amazonaws&logoColor=569A31)
-![Nginx](https://img.shields.io/badge/Nginx-20232A?style=for-the-badge&logo=nginx&logoColor=009639)
-
----
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
----
-
-## 💡 What I Build
-
-✔️ E-commerce Applications (Orders, Payments, Users)  
-✔️ Admin Dashboards (Role-based access, analytics, reports)  
-✔️ Secure Authentication Systems (OAuth2, JWT)  
-✔️ Payment Integrations (Stripe / Razorpay)  
-✔️ Google Calendar API Integrations  
-✔️ Cloud-hosted MERN Applications (AWS)  
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Mood Journal App
-- AI-based sentiment analysis  
-- Emoji & GIF recommendations  
-- Full-stack MERN application  
-- 🔗 Live: https://your-app.vercel.app  
-- 📂 Repo: https://github.com/your-username/mood-journal  
-
----
-
-### 📊 Node.js Logs System
-- Redis-based log batching  
-- Performance optimization  
-- Backend-focused system design  
-- 📂 Repo: https://github.com/your-username/node-logs  
-
----
-
-### 🛒 eCommerce Admin Dashboard
-- Product → Category → Type architecture  
-- Role-based access control  
-- Scalable admin system  
-- 🔗 Live: https://your-admin.vercel.app  
-- 📂 Repo: https://github.com/your-username/ecommerce-admin  
-
----
-
-## 🌱 Current Focus
+## Current Focus 🌱
 
 - Scalable MERN Architectures  
-- Secure API & OAuth2 Design  
-- AWS Production Deployments  
-- System Design & Performance Optimization  
+- Secure OAuth2 & API Design  
+- AWS Deployments (EC2, S3, RDS)  
+- Production-grade Business Applications  
+
+
+
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect 🤝
 
-💼 Open to:
-- Full-Stack Developer Roles  
+I’m open to:
+- Full-Stack Development Roles  
 - Freelance / Contract Work  
 - Product-based Startup Projects  
 
-📫 Reach me here:
-
-- 🌐 Portfolio: https://your-portfolio-link  
-- 💼 LinkedIn: https://www.linkedin.com/in/akhila-thada-2a8b30298  
+📫 **Reach me here:**  
+- Portfolio: https://your-portfolio-link  
+- LinkedIn: https://www.linkedin.com/in/akhila-thada-2a8b30298  
 
 ---
 
-⭐ *Building practical, secure, and scalable systems for real-world impact*
+<div align="center">
+
+⭐ *Building practical, secure, and scalable systems for real business needs.*
+
+</div>
